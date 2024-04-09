@@ -1,5 +1,5 @@
 package zipcode;
-
+//
 public class Hamming {
     public Hamming(String s, String s1) {
     }
